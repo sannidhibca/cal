@@ -1,4 +1,4 @@
-addi
+addi()
 {
 a=b+c
 }
